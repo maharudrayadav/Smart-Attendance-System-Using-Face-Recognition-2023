@@ -1,7 +1,7 @@
 
 # Smart Attendance System Using Face Recogniton
 
-The Smart Attendance System Using Face Recognition is a project designed to streamline and automate the process of taking attendance in various settings, such as educational institutions, corporate offices, and events. The system employs facial recognition technology to accurately identify and record the presence of individuals.
+          The Smart Attendance System Using Face Recognition is a project designed to streamline and automate the process of taking attendance in various settings, such as educational institutions, corporate offices, and events. The system employs facial recognition technology to accurately identify and record the presence of individuals.
 
 Traditionally, attendance management has been a manual and time-consuming task, requiring individuals to physically sign attendance sheets or use RFID cards. The smart attendance system revolutionizes this process by utilizing facial recognition algorithms to instantly recognize and verify the identity of individuals as they enter a designated area.
 
