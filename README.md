@@ -27,7 +27,7 @@ Traditionally, attendance management has been a manual and time-consuming task, 
 
 ### ▷ Algorithm use:
 
-- Haarcascade Opencv (Object Detection)
+- Haarcascade OpenCV (Object Detection): Used for object detection, particularly for detecting faces.
 - LBPH Opencv (Face Recognition)
 
 ## Deployment
