@@ -36,7 +36,9 @@ Traditionally, attendance management has been a manual and time-consuming task, 
 
 ### ▷ Setting up the project
 1)First clone the project  git clone  "https://github.com/maharudrayadav/Smart-Attendance-System-Using-Face-Recognition-2023.git"
+
 2)Install python 3.9 version
+
 3)Install python libraries like opencv,Numpy & opencv-contrib-python
 
 Start the server:
