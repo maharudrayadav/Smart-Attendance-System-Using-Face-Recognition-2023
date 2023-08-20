@@ -45,7 +45,7 @@ Traditionally, attendance management has been a manual and time-consuming task, 
 
 Start the server:
 
-        python login.py
+         login.py
         
 in terminal
 
