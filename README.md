@@ -43,7 +43,9 @@ Traditionally, attendance management has been a manual and time-consuming task, 
 3)Install python libraries like opencv,Numpy & opencv-contrib-python
 
 Start the server:
+
         python login.py
+        
 in terminal
 
 ### ▷ Database
