@@ -14,16 +14,21 @@ Traditionally, attendance management has been a manual and time-consuming task, 
 
 ### ▷ Features of Project:
 
-- Real-time face detection
-- Loging Security System
--(Username&Password)
-- Home Page
--   i) Student management system (Save, Take Photo Samples, Update, Delete, Clear) 
--   ii) Train Photo Samples 
--   iii) Take Attendance with Face Detection 
--   iv) Attendance Report (Excel file & MySql database) 
--   v) Exit
+Real-time Face Detection: The system provides real-time face detection capabilities, ensuring accurate identification.
 
+Secure Login System: A secure login system with username and password authentication to protect sensitive data.
+
+Home Page: The user-friendly home page offers multiple functionalities:
+
+i) Student Management System: Allows you to save, capture photos, update, delete, and clear student records.
+
+ii) Train Photo Samples: Enables the training of photo samples for facial recognition.
+
+iii) Take Attendance with Face Detection: Effortlessly take attendance using face detection technology.
+
+iv) Attendance Report Generation: Generate attendance reports in both Excel files and MySQL databases.
+
+v) Exit: Gracefully exit the application.
 
 ### ▷ Algorithm use:
 
