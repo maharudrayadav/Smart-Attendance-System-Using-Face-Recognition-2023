@@ -53,8 +53,5 @@ in terminal
   -https://dev.mysql.com/doc/
 
 
-## Authors
-- [@maharudrayadav](https://github.com/maharudrayadav)
-- [@sanjay-munde](https://github.com/sanjay-munde)
-- [@Rahul7519](https://github.com/Rahul7519)
+
 
